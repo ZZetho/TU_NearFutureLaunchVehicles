@@ -1,4 +1,4 @@
-## A collection of Textures Unlimited recolours for almost all of the parts from Near Future Launch Vehicles
+## Textures Unlimited recolours for almost all of the parts from Near Future Launch Vehicles
 
 ![wow look at them all](https://i.imgur.com/IUPNLOJ.png)
 
@@ -9,7 +9,7 @@
 
 # To Install:
 - Download and unzip the files
-- Put the TU_NearFutureLaunchVehicles folder into your gamedata folder
+- Put the folder named "TU_NearFutureLaunchVehichles", which will be inside the folder you just unzipped, directly into your gamedata folder
 
 # License:
 CC BY-NC-SA 4.0
